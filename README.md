@@ -7,4 +7,4 @@
 
 ## Ribbon轮序机制自定义
 默认是轮询，有以下选择的方式
-![IRule算法选择](http://qiniuyun.lmxljc.xyz/IRule%E8%BD%AE%E8%AF%A2%E6%9C%BA%E5%88%B6.png "IRule算法选择")
+![IRule算法选择](http://qiniuyun.lmxljc.xyz/IRule%E6%9C%BA%E5%88%B6.png "IRule算法选择")
